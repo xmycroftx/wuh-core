@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wuh-core", "wuh-core\wuh-core.csproj", "{D417CED4-51B9-41C3-86E9-7FE46D9AA115}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D417CED4-51B9-41C3-86E9-7FE46D9AA115}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D417CED4-51B9-41C3-86E9-7FE46D9AA115}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D417CED4-51B9-41C3-86E9-7FE46D9AA115}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D417CED4-51B9-41C3-86E9-7FE46D9AA115}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {906A33E6-F989-4EB8-8E6F-FBA4C41DD0D2}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,1 @@
+msbuild /t:publish /p:Configuration=Release /p:SelfContained=true /p:PublishTrimmed=True /p:PublishReadyToRun=True /p:RuntimeIdentifier=win10-x64 -p:PublishSingleFile=true
